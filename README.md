@@ -16,10 +16,6 @@
 <ul>
 <li>Change "scan/hosts.txt" to specify hosts addresses.</li>
 </ul>
-<h2>Usage Samples</h2>
-<ul>
-<li></li>
-</ul>
 <h2>Development</h2>
 <ul>
 <li>For change first banner font, check "*.flf" file names in "/usr/share/figlet"</li>

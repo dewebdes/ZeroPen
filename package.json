@@ -1,0 +1,23 @@
+{
+  "name": "zeropen",
+  "version": "1.0.0",
+  "description": "Opensource Nodejs Pentesting Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewebdes/ZeroPen.git"
+  },
+  "keywords": [
+    "pentest"
+  ],
+  "author": "kaveh eyni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewebdes/ZeroPen/issues"
+  },
+  "homepage": "https://github.com/dewebdes/ZeroPen#readme"
+}

@@ -1,0 +1,6 @@
+figlet -f big zeropen
+service tor start
+service tor status
+service privoxy start
+service privoxy status
+
